@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/adram3l3ch/Easybank-Landing-Page)
--   Live Site URL: [Add live site URL here](https://adramelech-easybank-landing-page.netlify.app/)
+-   Solution URL: [Github](https://github.com/adram3l3ch/Easybank-Landing-Page)
+-   Live Site URL: [Netlify](https://adramelech-easybank-landing-page.netlify.app/)
 
 ### Built with
 
